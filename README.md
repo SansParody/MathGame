@@ -14,5 +14,5 @@
 # Использование
 
 # Разработка и вклад
-Сообщить об [ошибках](https://github.com/SansParody/MathGame/issues)
-Отправить [Pull request](https://github.com/SansParody/MathGame/pulls)
+<p>Сообщить об [ошибках](https://github.com/SansParody/MathGame/issues)</p>
+<p>Отправить [Pull request](https://github.com/SansParody/MathGame/pulls)</p>
