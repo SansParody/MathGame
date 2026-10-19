@@ -9,10 +9,10 @@
 </ul>
 
 # Установка
-Скачать [архив](https://github.com/SansParody/MathGame/releases) и распаковать в необходимую папку. Запустить .exe файл.
+<p>Скачать <a href="https://github.com/SansParody/MathGame/releases">архив</a> и распаковать. Запустить .exe файл.</p>
 
 # Использование
 
 # Разработка и вклад
-<p>Сообщить об [ошибках](https://github.com/SansParody/MathGame/issues)</p>
-<p>Отправить [Pull request](https://github.com/SansParody/MathGame/pulls)</p>
+<p>Сообщить об <a href="https://github.com/SansParody/MathGame/issues">ошибках</a></p>
+<p>Отправить <a href="https://github.com/SansParody/MathGame/pulls">Pull request</a></p>
