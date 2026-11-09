@@ -1,5 +1,7 @@
 # MathGame
 Обучающая игра, нацеленная на обучение и закрепление навыков по высшей математике.
+<a href="https://github.com/SansParody/MathGame/blob/main/REQUIREMENTS.md">Требования к проекту</a>
+<a href="https://github.com/SansParody/MathGame/blob/main/Диаграмма%20вариантов%20использования.png">Диаграмма вариантов использования</a>
 
 # Основные возможности
 - Прохождение математических заданий.
