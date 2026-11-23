@@ -16,3 +16,6 @@
 # Разработка и вклад
 <p>Сообщить об <a href="https://github.com/SansParody/MathGame/issues">ошибках</a></p>
 <p>Отправить <a href="https://github.com/SansParody/MathGame/pulls">Pull request</a></p>
+
+# Лицензия
+Данный проект лицензирован под MIT License. Полный текст лицензии можно увидеть <a href="https://github.com/SansParody/MathGame/blob/main/LICENSE">здесь</a>
